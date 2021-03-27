@@ -1,0 +1,179 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,customer_id,customer_name,customer_phnumber
+LP001002,Male,No,0,Graduate,No,5849,0.0,,360.0,1.0,Urban,Y,26,Felisha,821-391-4620
+LP001003,Male,Yes,1,Graduate,No,4583,1508.0,128.0,360.0,1.0,Rural,N,89,Bentlee,831-440-7314
+LP001005,Male,Yes,0,Graduate,Yes,3000,0.0,66.0,360.0,1.0,Urban,Y,100,Eddi,706-925-5754
+LP001006,Male,Yes,0,Not Graduate,No,2583,2358.0,120.0,360.0,1.0,Urban,Y,92,Dot,245-567-7830
+LP001008,Male,No,0,Graduate,No,6000,0.0,141.0,360.0,1.0,Urban,Y,3,Normand,206-217-0902
+LP001011,Male,Yes,2,Graduate,Yes,5417,4196.0,267.0,360.0,1.0,Urban,Y,85,Talya,831-266-0429
+LP001013,Male,Yes,0,Not Graduate,No,2333,1516.0,95.0,360.0,1.0,Urban,Y,29,Hollyanne,851-609-1494
+LP001014,Male,Yes,3+,Graduate,No,3036,2504.0,158.0,360.0,0.0,Semiurban,N,6,Jeth,392-533-7748
+LP001018,Male,Yes,2,Graduate,No,4006,1526.0,168.0,360.0,1.0,Urban,Y,11,Bonnie,586-829-7259
+LP001020,Male,Yes,1,Graduate,No,12841,10968.0,349.0,360.0,1.0,Semiurban,N,54,Bowie,249-219-9661
+LP001024,Male,Yes,2,Graduate,No,3200,700.0,70.0,360.0,1.0,Urban,Y,29,Hilliary,412-430-8875
+LP001027,Male,Yes,2,Graduate,,2500,1840.0,109.0,360.0,1.0,Urban,Y,63,Liesa,996-707-0979
+LP001028,Male,Yes,2,Graduate,No,3073,8106.0,200.0,360.0,1.0,Urban,Y,38,Samuele,257-284-6446
+LP001029,Male,No,0,Graduate,No,1853,2840.0,114.0,360.0,1.0,Rural,N,22,Ethelin,575-335-4106
+LP001030,Male,Yes,2,Graduate,No,1299,1086.0,17.0,120.0,1.0,Urban,Y,21,Bambie,823-633-5639
+LP001032,Male,No,0,Graduate,No,4950,0.0,125.0,360.0,1.0,Urban,Y,34,Carolin,997-926-2234
+LP001034,Male,No,1,Not Graduate,No,3596,0.0,100.0,240.0,,Urban,Y,92,Margi,673-911-6499
+LP001036,Female,No,0,Graduate,No,3510,0.0,76.0,360.0,0.0,Urban,N,75,Florrie,278-828-4627
+LP001038,Male,Yes,0,Not Graduate,No,4887,0.0,133.0,360.0,1.0,Rural,N,6,Cissiee,987-974-7178
+LP001041,Male,Yes,0,Graduate,,2600,3500.0,115.0,,1.0,Urban,Y,86,Deedee,774-436-8655
+LP001043,Male,Yes,0,Not Graduate,No,7660,0.0,104.0,360.0,0.0,Urban,N,5,Lanni,184-524-2085
+LP001046,Male,Yes,1,Graduate,No,5955,5625.0,315.0,360.0,1.0,Urban,Y,43,Kacey,131-340-1403
+LP001047,Male,Yes,0,Not Graduate,No,2600,1911.0,116.0,360.0,0.0,Semiurban,N,77,Kial,341-579-0487
+LP001050,,Yes,2,Not Graduate,No,3365,1917.0,112.0,360.0,0.0,Rural,N,20,Tracey,141-913-5473
+LP001052,Male,Yes,1,Graduate,,3717,2925.0,151.0,360.0,,Semiurban,N,85,Tamma,140-113-3332
+LP001066,Male,Yes,0,Graduate,Yes,9560,0.0,191.0,360.0,1.0,Semiurban,Y,29,Luigi,143-965-7475
+LP001068,Male,Yes,0,Graduate,No,2799,2253.0,122.0,360.0,1.0,Semiurban,Y,53,Cariotta,334-388-4200
+LP001073,Male,Yes,2,Not Graduate,No,4226,1040.0,110.0,360.0,1.0,Urban,Y,63,Selinda,329-381-3588
+LP001086,Male,No,0,Not Graduate,No,1442,0.0,35.0,360.0,1.0,Urban,N,12,Dal,464-606-0525
+LP001087,Female,No,2,Graduate,,3750,2083.0,120.0,360.0,1.0,Semiurban,Y,93,Karole,240-960-7714
+LP001091,Male,Yes,1,Graduate,,4166,3369.0,201.0,360.0,,Urban,N,21,Roda,894-782-3775
+LP001095,Male,No,0,Graduate,No,3167,0.0,74.0,360.0,1.0,Urban,N,19,Chloe,300-524-0286
+LP001097,Male,No,1,Graduate,Yes,4692,0.0,106.0,360.0,1.0,Rural,N,77,Rosco,493-926-5589
+LP001098,Male,Yes,0,Graduate,No,3500,1667.0,114.0,360.0,1.0,Semiurban,Y,72,Friederike,782-838-4020
+LP001100,Male,No,3+,Graduate,No,12500,3000.0,320.0,360.0,1.0,Rural,N,50,Agace,541-456-6880
+LP001106,Male,Yes,0,Graduate,No,2275,2067.0,,360.0,1.0,Urban,Y,47,Alfredo,225-989-5549
+LP001109,Male,Yes,0,Graduate,No,1828,1330.0,100.0,,0.0,Urban,N,78,Cecilia,453-307-2840
+LP001112,Female,Yes,0,Graduate,No,3667,1459.0,144.0,360.0,1.0,Semiurban,Y,29,Helenelizabeth,266-897-5420
+LP001114,Male,No,0,Graduate,No,4166,7210.0,184.0,360.0,1.0,Urban,Y,61,Shelli,887-948-2388
+LP001116,Male,No,0,Not Graduate,No,3748,1668.0,110.0,360.0,1.0,Semiurban,Y,9,Dame,362-506-5600
+LP001119,Male,No,0,Graduate,No,3600,0.0,80.0,360.0,1.0,Urban,N,94,Salomone,858-467-2551
+LP001120,Male,No,0,Graduate,No,1800,1213.0,47.0,360.0,1.0,Urban,Y,24,Quent,865-976-6789
+LP001123,Male,Yes,0,Graduate,No,2400,0.0,75.0,360.0,,Urban,Y,11,West,379-604-3354
+LP001131,Male,Yes,0,Graduate,No,3941,2336.0,134.0,360.0,1.0,Semiurban,Y,37,Townie,635-765-5825
+LP001136,Male,Yes,0,Not Graduate,Yes,4695,0.0,96.0,,1.0,Urban,Y,35,Edd,553-206-8287
+LP001137,Female,No,0,Graduate,No,3410,0.0,88.0,,1.0,Urban,Y,15,Gibby,814-104-3583
+LP001138,Male,Yes,1,Graduate,No,5649,0.0,44.0,360.0,1.0,Urban,Y,85,Borg,665-171-8441
+LP001144,Male,Yes,0,Graduate,No,5821,0.0,144.0,360.0,1.0,Urban,Y,91,Cassandry,359-136-8487
+LP001146,Female,Yes,0,Graduate,No,2645,3440.0,120.0,360.0,0.0,Urban,N,37,Kean,593-389-3960
+LP001151,Female,No,0,Graduate,No,4000,2275.0,144.0,360.0,1.0,Semiurban,Y,10,Janean,851-323-1228
+LP001155,Female,Yes,0,Not Graduate,No,1928,1644.0,100.0,360.0,1.0,Semiurban,Y,33,Shirl,568-216-1349
+LP001157,Female,No,0,Graduate,No,3086,0.0,120.0,360.0,1.0,Semiurban,Y,16,Ingram,846-385-7648
+LP001164,Female,No,0,Graduate,No,4230,0.0,112.0,360.0,1.0,Semiurban,N,25,Coop,531-931-7519
+LP001179,Male,Yes,2,Graduate,No,4616,0.0,134.0,360.0,1.0,Urban,N,94,Husein,983-872-3107
+LP001186,Female,Yes,1,Graduate,Yes,11500,0.0,286.0,360.0,0.0,Urban,N,1,Eamon,270-177-1513
+LP001194,Male,Yes,2,Graduate,No,2708,1167.0,97.0,360.0,1.0,Semiurban,Y,61,Yetta,355-741-2444
+LP001195,Male,Yes,0,Graduate,No,2132,1591.0,96.0,360.0,1.0,Semiurban,Y,39,Lezlie,788-679-9481
+LP001197,Male,Yes,0,Graduate,No,3366,2200.0,135.0,360.0,1.0,Rural,N,30,Silvano,416-497-3264
+LP001198,Male,Yes,1,Graduate,No,8080,2250.0,180.0,360.0,1.0,Urban,Y,43,Viviyan,449-225-5877
+LP001199,Male,Yes,2,Not Graduate,No,3357,2859.0,144.0,360.0,1.0,Urban,Y,22,Marcelia,786-442-4485
+LP001205,Male,Yes,0,Graduate,No,2500,3796.0,120.0,360.0,1.0,Urban,Y,12,Linus,511-497-0364
+LP001206,Male,Yes,3+,Graduate,No,3029,0.0,99.0,360.0,1.0,Urban,Y,15,Branden,546-900-2560
+LP001207,Male,Yes,0,Not Graduate,Yes,2609,3449.0,165.0,180.0,0.0,Rural,N,12,Kelcy,351-806-9335
+LP001213,Male,Yes,1,Graduate,No,4945,0.0,,360.0,0.0,Rural,N,25,Feodora,362-188-3451
+LP001222,Female,No,0,Graduate,No,4166,0.0,116.0,360.0,0.0,Semiurban,N,37,Valentine,658-198-1441
+LP001225,Male,Yes,0,Graduate,No,5726,4595.0,258.0,360.0,1.0,Semiurban,N,65,Cammy,706-293-8271
+LP001228,Male,No,0,Not Graduate,No,3200,2254.0,126.0,180.0,0.0,Urban,N,70,Cthrine,933-779-6665
+LP001233,Male,Yes,1,Graduate,No,10750,0.0,312.0,360.0,1.0,Urban,Y,21,Hillel,450-701-9431
+LP001238,Male,Yes,3+,Not Graduate,Yes,7100,0.0,125.0,60.0,1.0,Urban,Y,90,Haven,271-727-7928
+LP001241,Female,No,0,Graduate,No,4300,0.0,136.0,360.0,0.0,Semiurban,N,21,Tildy,358-455-3216
+LP001243,Male,Yes,0,Graduate,No,3208,3066.0,172.0,360.0,1.0,Urban,Y,63,Arliene,687-627-7619
+LP001245,Male,Yes,2,Not Graduate,Yes,1875,1875.0,97.0,360.0,1.0,Semiurban,Y,23,Keane,793-992-7811
+LP001248,Male,No,0,Graduate,No,3500,0.0,81.0,300.0,1.0,Semiurban,Y,85,Gilligan,704-535-6669
+LP001250,Male,Yes,3+,Not Graduate,No,4755,0.0,95.0,,0.0,Semiurban,N,28,Stafani,461-360-0808
+LP001253,Male,Yes,3+,Graduate,Yes,5266,1774.0,187.0,360.0,1.0,Semiurban,Y,11,Sharl,950-653-4603
+LP001255,Male,No,0,Graduate,No,3750,0.0,113.0,480.0,1.0,Urban,N,15,Lion,540-381-1515
+LP001256,Male,No,0,Graduate,No,3750,4750.0,176.0,360.0,1.0,Urban,N,57,Kipp,189-984-6162
+LP001259,Male,Yes,1,Graduate,Yes,1000,3022.0,110.0,360.0,1.0,Urban,N,97,Basia,765-235-6650
+LP001263,Male,Yes,3+,Graduate,No,3167,4000.0,180.0,300.0,0.0,Semiurban,N,3,Giustino,229-789-5689
+LP001264,Male,Yes,3+,Not Graduate,Yes,3333,2166.0,130.0,360.0,,Semiurban,Y,92,Rozalie,645-807-7676
+LP001265,Female,No,0,Graduate,No,3846,0.0,111.0,360.0,1.0,Semiurban,Y,95,Chantal,567-412-4387
+LP001266,Male,Yes,1,Graduate,Yes,2395,0.0,,360.0,1.0,Semiurban,Y,16,Devinne,133-112-1571
+LP001267,Female,Yes,2,Graduate,No,1378,1881.0,167.0,360.0,1.0,Urban,N,13,Ralf,841-801-1960
+LP001273,Male,Yes,0,Graduate,No,6000,2250.0,265.0,360.0,,Semiurban,N,66,Brockie,937-175-6985
+LP001275,Male,Yes,1,Graduate,No,3988,0.0,50.0,240.0,1.0,Urban,Y,44,Verna,813-959-6302
+LP001279,Male,No,0,Graduate,No,2366,2531.0,136.0,360.0,1.0,Semiurban,Y,89,Larry,948-132-0762
+LP001280,Male,Yes,2,Not Graduate,No,3333,2000.0,99.0,360.0,,Semiurban,Y,82,Orlan,842-480-1554
+LP001282,Male,Yes,0,Graduate,No,2500,2118.0,104.0,360.0,1.0,Semiurban,Y,94,Joelie,593-706-4289
+LP001289,Male,No,0,Graduate,No,8566,0.0,210.0,360.0,1.0,Urban,Y,38,Neils,851-931-7822
+LP001310,Male,Yes,0,Graduate,No,5695,4167.0,175.0,360.0,1.0,Semiurban,Y,92,Martina,360-257-5442
+LP001316,Male,Yes,0,Graduate,No,2958,2900.0,131.0,360.0,1.0,Semiurban,Y,5,Wyn,784-249-6655
+LP001318,Male,Yes,2,Graduate,No,6250,5654.0,188.0,180.0,1.0,Semiurban,Y,14,Bunny,247-209-5875
+LP001319,Male,Yes,2,Not Graduate,No,3273,1820.0,81.0,360.0,1.0,Urban,Y,48,Ange,861-795-7076
+LP001322,Male,No,0,Graduate,No,4133,0.0,122.0,360.0,1.0,Semiurban,Y,50,Bar,435-511-4328
+LP001325,Male,No,0,Not Graduate,No,3620,0.0,25.0,120.0,1.0,Semiurban,Y,12,Latrena,362-626-9857
+LP001326,Male,No,0,Graduate,,6782,0.0,,360.0,,Urban,N,75,Natividad,500-894-7914
+LP001327,Female,Yes,0,Graduate,No,2484,2302.0,137.0,360.0,1.0,Semiurban,Y,57,Hedi,743-286-7106
+LP001333,Male,Yes,0,Graduate,No,1977,997.0,50.0,360.0,1.0,Semiurban,Y,54,Courtney,697-305-5321
+LP001334,Male,Yes,0,Not Graduate,No,4188,0.0,115.0,180.0,1.0,Semiurban,Y,23,Rorie,777-724-4601
+LP001343,Male,Yes,0,Graduate,No,1759,3541.0,131.0,360.0,1.0,Semiurban,Y,81,Meghan,939-757-4499
+LP001345,Male,Yes,2,Not Graduate,No,4288,3263.0,133.0,180.0,1.0,Urban,Y,88,Brodie,768-364-7664
+LP001349,Male,No,0,Graduate,No,4843,3806.0,151.0,360.0,1.0,Semiurban,Y,86,Maxy,614-185-1390
+LP001350,Male,Yes,,Graduate,No,13650,0.0,,360.0,1.0,Urban,Y,11,Clarita,782-640-9697
+LP001356,Male,Yes,0,Graduate,No,4652,3583.0,,360.0,1.0,Semiurban,Y,44,Judon,212-194-2425
+LP001357,Male,,,Graduate,No,3816,754.0,160.0,360.0,1.0,Urban,Y,12,Spike,499-299-7655
+LP001367,Male,Yes,1,Graduate,No,3052,1030.0,100.0,360.0,1.0,Urban,Y,20,Lilia,184-789-6528
+LP001369,Male,Yes,2,Graduate,No,11417,1126.0,225.0,360.0,1.0,Urban,Y,67,Chick,461-597-1808
+LP001370,Male,No,0,Not Graduate,,7333,0.0,120.0,360.0,1.0,Rural,N,52,Elyn,524-978-2968
+LP001379,Male,Yes,2,Graduate,No,3800,3600.0,216.0,360.0,0.0,Urban,N,55,Stinky,298-726-6612
+LP001384,Male,Yes,3+,Not Graduate,No,2071,754.0,94.0,480.0,1.0,Semiurban,Y,94,Myrle,888-442-7995
+LP001385,Male,No,0,Graduate,No,5316,0.0,136.0,360.0,1.0,Urban,Y,13,Serge,278-788-8707
+LP001387,Female,Yes,0,Graduate,,2929,2333.0,139.0,360.0,1.0,Semiurban,Y,81,Abe,112-147-8689
+LP001391,Male,Yes,0,Not Graduate,No,3572,4114.0,152.0,,0.0,Rural,N,4,Etta,263-246-0497
+LP001392,Female,No,1,Graduate,Yes,7451,0.0,,360.0,1.0,Semiurban,Y,31,Appolonia,845-111-2331
+LP001398,Male,No,0,Graduate,,5050,0.0,118.0,360.0,1.0,Semiurban,Y,64,Daniel,720-810-3987
+LP001401,Male,Yes,1,Graduate,No,14583,0.0,185.0,180.0,1.0,Rural,Y,16,Sonnie,730-523-9398
+LP001404,Female,Yes,0,Graduate,No,3167,2283.0,154.0,360.0,1.0,Semiurban,Y,55,Charla,910-414-5511
+LP001405,Male,Yes,1,Graduate,No,2214,1398.0,85.0,360.0,,Urban,Y,22,Ericha,838-678-3054
+LP001421,Male,Yes,0,Graduate,No,5568,2142.0,175.0,360.0,1.0,Rural,N,97,Rheta,800-502-6288
+LP001422,Female,No,0,Graduate,No,10408,0.0,259.0,360.0,1.0,Urban,Y,29,Cindie,626-337-1426
+LP001426,Male,Yes,,Graduate,No,5667,2667.0,180.0,360.0,1.0,Rural,Y,14,Gayelord,797-155-5088
+LP001430,Female,No,0,Graduate,No,4166,0.0,44.0,360.0,1.0,Semiurban,Y,65,Averell,866-485-5357
+LP001431,Female,No,0,Graduate,No,2137,8980.0,137.0,360.0,0.0,Semiurban,Y,31,Nike,931-137-4591
+LP001432,Male,Yes,2,Graduate,No,2957,0.0,81.0,360.0,1.0,Semiurban,Y,98,Gottfried,503-574-8083
+LP001439,Male,Yes,0,Not Graduate,No,4300,2014.0,194.0,360.0,1.0,Rural,Y,54,Herby,764-611-3175
+LP001443,Female,No,0,Graduate,No,3692,0.0,93.0,360.0,,Rural,Y,56,Gabriella,824-305-1634
+LP001448,,Yes,3+,Graduate,No,23803,0.0,370.0,360.0,1.0,Rural,Y,84,Gerri,903-536-2631
+LP001449,Male,No,0,Graduate,No,3865,1640.0,,360.0,1.0,Rural,Y,82,Cathyleen,600-697-1304
+LP001451,Male,Yes,1,Graduate,Yes,10513,3850.0,160.0,180.0,0.0,Urban,N,12,Edita,980-875-1692
+LP001465,Male,Yes,0,Graduate,No,6080,2569.0,182.0,360.0,,Rural,N,44,Sunshine,571-925-5990
+LP001469,Male,No,0,Graduate,Yes,20166,0.0,650.0,480.0,,Urban,Y,53,Martie,404-614-2833
+LP001473,Male,No,0,Graduate,No,2014,1929.0,74.0,360.0,1.0,Urban,Y,51,Monique,915-313-8969
+LP001478,Male,No,0,Graduate,No,2718,0.0,70.0,360.0,1.0,Semiurban,Y,70,Isidro,184-754-4255
+LP001482,Male,Yes,0,Graduate,Yes,3459,0.0,25.0,120.0,1.0,Semiurban,Y,78,Kizzee,715-378-6501
+LP001487,Male,No,0,Graduate,No,4895,0.0,102.0,360.0,1.0,Semiurban,Y,94,Gwenny,174-902-0992
+LP001488,Male,Yes,3+,Graduate,No,4000,7750.0,290.0,360.0,1.0,Semiurban,N,14,Ramsay,163-340-6172
+LP001489,Female,Yes,0,Graduate,No,4583,0.0,84.0,360.0,1.0,Rural,N,78,Daphne,964-551-4003
+LP001491,Male,Yes,2,Graduate,Yes,3316,3500.0,88.0,360.0,1.0,Urban,Y,82,Paco,921-625-4084
+LP001492,Male,No,0,Graduate,No,14999,0.0,242.0,360.0,0.0,Semiurban,N,23,Leonardo,214-860-2110
+LP001493,Male,Yes,2,Not Graduate,No,4200,1430.0,129.0,360.0,1.0,Rural,N,41,Conan,523-200-5098
+LP001497,Male,Yes,2,Graduate,No,5042,2083.0,185.0,360.0,1.0,Rural,N,70,Roshelle,310-183-2232
+LP001498,Male,No,0,Graduate,No,5417,0.0,168.0,360.0,1.0,Urban,Y,88,Richart,771-272-5714
+LP001504,Male,No,0,Graduate,Yes,6950,0.0,175.0,180.0,1.0,Semiurban,Y,61,Peggi,806-910-1290
+LP001507,Male,Yes,0,Graduate,No,2698,2034.0,122.0,360.0,1.0,Semiurban,Y,92,Caresse,170-573-5052
+LP001508,Male,Yes,2,Graduate,No,11757,0.0,187.0,180.0,1.0,Urban,Y,66,Jayme,604-744-8055
+LP001514,Female,Yes,0,Graduate,No,2330,4486.0,100.0,360.0,1.0,Semiurban,Y,71,Janean,429-899-5905
+LP001516,Female,Yes,2,Graduate,No,14866,0.0,70.0,360.0,1.0,Urban,Y,88,Ermentrude,588-395-8601
+LP001518,Male,Yes,1,Graduate,No,1538,1425.0,30.0,360.0,1.0,Urban,Y,19,Jessee,797-395-1926
+LP001519,Female,No,0,Graduate,No,10000,1666.0,225.0,360.0,1.0,Rural,N,88,Nickolai,678-559-5824
+LP001520,Male,Yes,0,Graduate,No,4860,830.0,125.0,360.0,1.0,Semiurban,Y,40,Hakeem,321-910-4732
+LP001528,Male,No,0,Graduate,No,6277,0.0,118.0,360.0,0.0,Rural,N,100,Robers,416-762-4190
+LP001529,Male,Yes,0,Graduate,Yes,2577,3750.0,152.0,360.0,1.0,Rural,Y,7,Beale,682-521-5807
+LP001531,Male,No,0,Graduate,No,9166,0.0,244.0,360.0,1.0,Urban,N,26,Evelin,518-254-0256
+LP001532,Male,Yes,2,Not Graduate,No,2281,0.0,113.0,360.0,1.0,Rural,N,7,Berty,933-572-0447
+LP001535,Male,No,0,Graduate,No,3254,0.0,50.0,360.0,1.0,Urban,Y,70,Woodrow,637-181-4331
+LP001536,Male,Yes,3+,Graduate,No,39999,0.0,600.0,180.0,0.0,Semiurban,Y,6,Blondell,758-948-9487
+LP001541,Male,Yes,1,Graduate,No,6000,0.0,160.0,360.0,,Rural,Y,34,Alford,672-524-7398
+LP001543,Male,Yes,1,Graduate,No,9538,0.0,187.0,360.0,1.0,Urban,Y,34,Lexis,210-476-6598
+LP001546,Male,No,0,Graduate,,2980,2083.0,120.0,360.0,1.0,Rural,Y,39,Brennen,539-269-4520
+LP001552,Male,Yes,0,Graduate,No,4583,5625.0,255.0,360.0,1.0,Semiurban,Y,29,Wayne,574-478-0935
+LP001560,Male,Yes,0,Not Graduate,No,1863,1041.0,98.0,360.0,1.0,Semiurban,Y,92,Happy,734-499-9785
+LP001562,Male,Yes,0,Graduate,No,7933,0.0,275.0,360.0,1.0,Urban,N,33,Dewitt,347-847-9940
+LP001565,Male,Yes,1,Graduate,No,3089,1280.0,121.0,360.0,0.0,Semiurban,N,24,Pauline,464-903-9713
+LP001570,Male,Yes,2,Graduate,No,4167,1447.0,158.0,360.0,1.0,Rural,Y,39,Farleigh,140-619-4742
+LP001572,Male,Yes,0,Graduate,No,9323,0.0,75.0,180.0,1.0,Urban,Y,98,Audi,928-951-6011
+LP001574,Male,Yes,0,Graduate,No,3707,3166.0,182.0,,1.0,Rural,Y,57,Angil,132-462-3109
+LP001577,Female,Yes,0,Graduate,No,4583,0.0,112.0,360.0,1.0,Rural,N,99,Wenda,699-601-3245
+LP001578,Male,Yes,0,Graduate,No,2439,3333.0,129.0,360.0,1.0,Rural,Y,34,Maitilde,553-977-4701
+LP001579,Male,No,0,Graduate,No,2237,0.0,63.0,480.0,0.0,Semiurban,N,94,Ophelia,641-296-6667
+LP001580,Male,Yes,2,Graduate,No,8000,0.0,200.0,360.0,1.0,Semiurban,Y,54,Buiron,588-815-5470
+LP001581,Male,Yes,0,Not Graduate,,1820,1769.0,95.0,360.0,1.0,Rural,Y,81,Tito,523-771-3688
+LP001585,,Yes,3+,Graduate,No,51763,0.0,700.0,300.0,1.0,Urban,Y,33,Barby,481-872-5764
+LP001586,Male,Yes,3+,Not Graduate,No,3522,0.0,81.0,180.0,1.0,Rural,N,73,Georgie,109-308-4829
+LP001594,Male,Yes,0,Graduate,No,5708,5625.0,187.0,360.0,1.0,Semiurban,Y,99,Gayler,342-985-6643
+LP001603,Male,Yes,0,Not Graduate,Yes,4344,736.0,87.0,360.0,1.0,Semiurban,N,32,Lenard,928-263-2810
+LP001606,Male,Yes,0,Graduate,No,3497,1964.0,116.0,360.0,1.0,Rural,Y,25,Beale,589-948-6431
+LP001608,Male,Yes,2,Graduate,No,2045,1619.0,101.0,360.0,1.0,Rural,Y,98,Erma,459-583-5396
+LP001610,Male,Yes,3+,Graduate,No,5516,11300.0,495.0,360.0,0.0,Semiurban,N,45,Loraine,664-173-5569
